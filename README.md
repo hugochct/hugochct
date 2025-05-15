@@ -1,4 +1,4 @@
-# Hi there ! I am Hugo Chacrot
+# Hi there !
 
 Who am I ?
 
